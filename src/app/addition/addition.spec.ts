@@ -17,7 +17,7 @@ describe('addition unit tests', () => {
         // Arrange
         let result = 0;
         // Act
-        result = addition(0, -2);
+        result = addition(0, 2);
         // Assert
         expect(result).toBe(2);
 
