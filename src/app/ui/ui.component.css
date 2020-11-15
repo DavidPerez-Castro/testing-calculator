@@ -40,3 +40,15 @@
     cursor: pointer;
     color: gray;
 }
+.exp-button {
+    cursor: pointer;
+    color: yellow;
+}
+.sqr-button {
+    cursor: pointer;
+    color: pink;
+}
+.sqrt-button {
+    cursor: pointer;
+    color: purple;
+}
